@@ -1,1 +1,1 @@
-# chest-x-rays-Image-Recognition-
+# Image-Recognition
